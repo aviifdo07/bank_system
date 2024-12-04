@@ -1,0 +1,14 @@
+D:\T2.24\Object Oriented Development\CodeFiles\7.1P\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\T2.24\Object Oriented Development\CodeFiles\7.1P\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+D:\T2.24\Object Oriented Development\CodeFiles\7.1P\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+D:\T2.24\Object Oriented Development\CodeFiles\7.1P\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+D:\T2.24\Object Oriented Development\CodeFiles\7.1P\MyApp\bin\Debug\net6.0\MyApp.exe
+D:\T2.24\Object Oriented Development\CodeFiles\7.1P\MyApp\bin\Debug\net6.0\MyApp.deps.json
+D:\T2.24\Object Oriented Development\CodeFiles\7.1P\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+D:\T2.24\Object Oriented Development\CodeFiles\7.1P\MyApp\bin\Debug\net6.0\MyApp.dll
+D:\T2.24\Object Oriented Development\CodeFiles\7.1P\MyApp\bin\Debug\net6.0\MyApp.pdb
+D:\T2.24\Object Oriented Development\CodeFiles\7.1P\MyApp\obj\Debug\net6.0\MyApp.dll
+D:\T2.24\Object Oriented Development\CodeFiles\7.1P\MyApp\obj\Debug\net6.0\refint\MyApp.dll
+D:\T2.24\Object Oriented Development\CodeFiles\7.1P\MyApp\obj\Debug\net6.0\MyApp.pdb
+D:\T2.24\Object Oriented Development\CodeFiles\7.1P\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
+D:\T2.24\Object Oriented Development\CodeFiles\7.1P\MyApp\obj\Debug\net6.0\ref\MyApp.dll
